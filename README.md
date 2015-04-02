@@ -14,3 +14,4 @@ atlas.hashicorp.com/juniper
 Chef is supported on Juniper EX/QFX switching platforms
 netdev is a Chef cookbook stored on the chef server (common platform, worked with arista)
 
+Juniper Automate GitHub
